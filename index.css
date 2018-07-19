@@ -1,0 +1,368 @@
+*{
+    padding: 0px;
+    margin:0px;
+}
+body{
+    font-family: "segoe ui light"
+}
+.nav ul{
+  
+    list-style-type: none;
+    padding-left:0px;
+    overflow: hidden;
+    margin-top:0px;
+
+}
+
+.nav ul li{
+   
+    margin-top:0px;
+    padding-right:20px;
+    float:right;
+    
+
+
+    padding-top: 35px;
+    font-family: sans-serif;
+}.nav ul li a{
+    font-size:15px;
+    color:white;
+    text-decoration: none;
+    
+}    .b{
+      border-top:2px solid ;
+    border-color:forestgreen;
+   
+   text-align: center;
+ 
+padding-left: 15px;
+    margin-right:10px; 
+    padding-top: 20px;
+    }    
+    
+
+.nav .logo{
+    float:left;
+margin-left:60px ;
+    margin-top:0px;
+    padding-top: 30px;
+   
+}
+.nav img{
+    height:35px;
+    width:auto;
+   
+}.home{
+    width:100%;
+    height:800px;
+    background-image:url(business.jpg);
+  background-color: darkgray;
+    background-blend-mode:hard-light;
+background-size: 100% 100%;
+text-align: center;
+
+    
+
+}
+
+.home1{
+        width:100%;
+    height:800px;
+background-size: 100% 100%;
+background-color: rgba(0,0,0,0.7);
+}
+span{
+    background-color: white;
+color:black;  
+     padding:12px 20px;
+border-radius: 2px;
+}span:hover{
+    background-color:#4CAF50;
+    color:white;
+}
+
+
+.bu:hover{
+    background-color:#4CAF50;
+    color: white;
+}.bu{
+    background-color: white;
+    padding:12px 20px;
+    margin-bottom: 40px;
+    float: right;
+}.bb:hover{
+    background-color: white;
+
+}.bb{
+    background-color: #4CAF50;
+
+    padding:18px 30px;
+    color:white;
+}.co:hover{
+    color:black;
+}.div9{
+    background-color: white;
+    width: 100%;
+    height: 300px;
+}.div10{
+      float:left;
+    width:28%;
+    color:black;
+    margin-left: 50px;
+    background-color: white;
+    text-align: left;
+}.div10 img{
+       width:20%;
+    height:20%;
+    float:left;
+    display: inline-block;
+    margin-top: 80px;
+    margin-left:0px; 
+}.div10 h3{
+    margin-top: 95px;
+}.div10 p{
+margin-left: 80px;
+    color: darkgray;
+}
+
+.div1{
+    background-color: ghostwhite;
+    width: 100%;
+    height: 800px;
+}
+
+.div8{
+    float:left;
+    width:28.1%;
+    color:black;
+    margin-left: 50px;
+    background-color: white;
+    text-align: left;
+   height: 480px;
+}
+.div8 img{
+    width:380px;
+    margin-bottom: 20px;
+}    .div8 a{
+text-decoration: none;
+    color:black;
+    font-size:20px; 
+margin-left: 20px;
+}
+<!-- .ab{ font-size:20px;color:black;  text-decoration: none;
+} -->
+    
+    
+
+.aa:hover{ 
+    color:#4CAF50;
+}
+
+
+ 
+  
+.div8 p{
+    color:darkgray;
+    margin-left: 20px;
+}.div11{
+     background-color: white;
+    width: 85%;
+    height: 800px;
+   
+    
+} .div12{
+    float:right;
+    width:40%;
+}
+.div11 .div12 img{
+    width:550px;
+    background-size: 100% 100%;
+    margin-top:80px;
+    margin-right:80px;
+    float: left;
+    height: 550px;
+    
+}.div11 .div13 p{
+margin-left: 50px;
+    color: darkgray;
+}
+.div11 .div13{
+    width:60%;
+    float:left;
+    margin: auto;
+    text-align: left;
+}.div14{
+    width:100%;
+    background-color: whitesmoke;
+    height: 550px;
+    text-align: center;
+}.div14 img{
+    width:3%;
+    height: 7%;
+margin: auto;
+}.div14 .div15{
+    width:25%;
+    background-color: whitesmoke;
+    margin-left: 80px;
+    float: left;
+}.div14 .div15 p{
+    width: 90%;
+    font-size: 19px;
+    color:darkgray;
+    background-color: white;
+    padding: 30px 35px;
+}.div16{
+    width:100%;
+    background-color: white;
+    height: 350px;
+    
+}.div16 .div17{
+    width:20%;
+    float: left;
+text-align: center;
+    margin-left: 25px;
+}.div16 .div17 img{
+    width:15%;
+    height: 12%;
+padding-left: 50px;
+}
+
+.div11 .div13 h1{
+    
+    margin-left: 50px;
+    margin-top: 150px;
+}.bf{
+    
+    background-color: #4CAF50;
+
+    padding:15px 25px;
+    color:white;
+    margin-left: 50px;
+
+}.bf:hover{
+    background-color: black;
+}
+.divv{
+    padding:60px 60px;
+background-color: #4CAF50;
+    height:100px;
+    display: inline-block;
+    width:92%;
+}.divv span{
+    background-color: white;
+    color:black;
+    padding:20px 20px;
+    border-radius: 5px;
+    float: right;
+
+}.divv span:hover{
+    background-color: black;
+    color: white;
+
+}
+
+.db:hover{
+    background-color: black;
+    color:white;
+    
+}.divv ul{
+    text-decoration: none;
+    float: right;
+    list-style-type:none;
+    margin-top: 0px;
+}.divvv{
+    width:100%;
+    display: inline-block;
+    height: auto;
+    background-color:darkgrey;
+    
+}.divvvv{
+    text-align: center;
+    width:20%;
+    background-color:ghostwhite;
+    float: left;
+    height:auto;
+}.divvvv img{
+    margin:100px 70px;
+    width:50%;
+    height:65px;
+  
+}.div4{
+    text-align: center;
+
+    width:100%;
+      height: 700px;
+}.div2{
+    width:25%;
+    margin-left:70px;
+    text-align: left;
+    float: left;
+    margin-bottom: 70px;
+    
+
+}.home2{
+    background-image: url(full-2.jpg);
+    background-size: 100% 100%;
+    text-align: center;
+    width:100%;
+    height:500px;
+}.clr{
+    clear: both;
+}
+.home3{
+    background-size: 100% 100%;
+width:100%;
+    height:240px;
+background-color: rgba(0,0,0,0.5);
+text-align: center;
+margin: auto;
+padding:130px 0px;    
+    
+}.home4{
+width:100%;
+    height: 300px;
+    background-color:black;
+
+}.div5{
+    width:22%;
+    float:left;
+
+    margin-top: 70px;
+    color:dodgerblue;
+    margin-left: 40px;
+    
+}.div5 img{
+    width:5%;
+    height: 5%;
+    float:left;
+    display: inline-block;
+    margin-top: 3px;
+    margin-left:0px; 
+}.div5 a{
+    list-style-type: none;
+    text-decoration: none;
+    color:dodgerblue;
+}.div6{
+    width:22%;
+    background-image: url(37196230_1610100699112855_3508737626540605440_n.jpg);
+   
+}.div18{
+    width:100%;
+    background-color:#1E3442 ;
+    color: cadetblue;
+    height:60px;
+    
+}.div18 h4{
+    margin-left: 40px;
+    float: left;
+}.div18 a{
+    float:right;
+    width:30%;
+    height: 20%;
+   display: inline-block;
+    
+}.div18 img{
+    width:8%;
+    height: 100%;
+    margin-top:20px;
+}
